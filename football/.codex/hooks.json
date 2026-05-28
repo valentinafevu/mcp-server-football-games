@@ -1,0 +1,43 @@
+{
+  "description": "Hooks de seguridad y ciclo simple",
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash '.codex/hooks/prevent-env-leak.sh'",
+            "timeout": 10,
+            "statusMessage": "Validando que no se filtren secretos de .env"
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash '.codex/hooks/create-hola.sh'",
+            "timeout": 5,
+            "statusMessage": "Creando hola.txt antes del loop"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash '.codex/hooks/create-chao.sh'",
+            "timeout": 5,
+            "statusMessage": "Creando chao.txt despues del loop"
+          }
+        ]
+      }
+    ]
+  }
+}

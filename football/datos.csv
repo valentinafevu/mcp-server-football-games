@@ -1,0 +1,65 @@
+home_team_name,away_team_name,home_team_id,away_team_id,home_team_goals,away_team_goals,date,referee,venue_name,venue_city
+Qatar,Ecuador,1569,2382,0,2,2022-11-20T16:00:00+00:00,D. Orsato,Al Bayt Stadium,Al Khor
+England,Iran,10,22,6,2,2022-11-21T13:00:00+00:00,Raphael Claus,Khalifa International Stadium,Ar-Rayyan
+Senegal,Netherlands,13,1118,0,2,2022-11-21T16:00:00+00:00,Wilton Pereira Sampaio,Al Thumama Stadium,Doha
+USA,Wales,2384,767,1,1,2022-11-21T19:00:00+00:00,Abdulrahman Al Jassim,Ahmad bin Ali Stadium,Al-Rayyan
+Argentina,Saudi Arabia,26,23,1,2,2022-11-22T10:00:00+00:00,S. Vinčić,Lusail Iconic Stadium,Lusail
+Denmark,Tunisia,21,28,0,0,2022-11-22T13:00:00+00:00,C. Ramos,Education City Stadium,Ar-Rayyan
+Mexico,Poland,16,24,0,0,2022-11-22T16:00:00+00:00,C. Beath,Stadium 974,Doha
+France,Australia,2,20,4,1,2022-11-22T19:00:00+00:00,V. Gomes,Al Janoub Stadium,Al Wakrah
+Morocco,Croatia,31,3,0,0,2022-11-23T10:00:00+00:00,F. Rapallini,Al Bayt Stadium,Al Khor
+Germany,Japan,25,12,1,2,2022-11-23T13:00:00+00:00,Ivan Cisneros,Khalifa International Stadium,Ar-Rayyan
+Spain,Costa Rica,9,29,7,0,2022-11-23T16:00:00+00:00,Mohamed Abdulla Hassan Mohd,Al Thumama Stadium,Doha
+Belgium,Canada,1,5529,1,0,2022-11-23T19:00:00+00:00,J. Sikazwe,Ahmad bin Ali Stadium,Al-Rayyan
+Switzerland,Cameroon,15,1530,1,0,2022-11-24T10:00:00+00:00,F. Tello,Al Janoub Stadium,Al Wakrah
+Uruguay,South Korea,7,17,0,0,2022-11-24T13:00:00+00:00,C. Turpin,Education City Stadium,Ar-Rayyan
+Portugal,Ghana,27,1504,3,2,2022-11-24T16:00:00+00:00,I. Elfath,Stadium 974,Doha
+Brazil,Serbia,6,14,2,0,2022-11-24T19:00:00+00:00,A. Faghani,Lusail Iconic Stadium,Lusail
+Wales,Iran,767,22,0,2,2022-11-25T10:00:00+00:00,M. Escobar,Ahmad bin Ali Stadium,Al-Rayyan
+Qatar,Senegal,1569,13,1,3,2022-11-25T13:00:00+00:00,Antonio Mateu,Al Thumama Stadium,Doha
+Netherlands,Ecuador,1118,2382,1,1,2022-11-25T16:00:00+00:00,M. Ghorbal,Khalifa International Stadium,Ar-Rayyan
+England,USA,10,2384,0,0,2022-11-25T19:00:00+00:00,J. Valenzuela,Al Bayt Stadium,Al Khor
+Tunisia,Australia,28,20,0,1,2022-11-26T10:00:00+00:00,D. Siebert,Al Janoub Stadium,Al Wakrah
+Poland,Saudi Arabia,24,23,2,0,2022-11-26T13:00:00+00:00,Wilton Pereira Sampaio,Education City Stadium,Ar-Rayyan
+France,Denmark,2,21,2,1,2022-11-26T16:00:00+00:00,S. Marciniak,Stadium 974,Doha
+Argentina,Mexico,26,16,2,0,2022-11-26T19:00:00+00:00,D. Orsato,Lusail Iconic Stadium,Lusail
+Japan,Costa Rica,12,29,0,1,2022-11-27T10:00:00+00:00,M. Oliver,Ahmad bin Ali Stadium,Al-Rayyan
+Belgium,Morocco,1,31,0,2,2022-11-27T13:00:00+00:00,C. Ramos,Al Thumama Stadium,Doha
+Croatia,Canada,3,5529,4,1,2022-11-27T16:00:00+00:00,A. Matonte,Khalifa International Stadium,Ar-Rayyan
+Spain,Germany,9,25,1,1,2022-11-27T19:00:00+00:00,D. Makkelie,Al Bayt Stadium,Al Khor
+Cameroon,Serbia,1530,14,3,3,2022-11-28T10:00:00+00:00,Mohamed Abdulla Hassan Mohd,Al Janoub Stadium,Al Wakrah
+South Korea,Ghana,17,1504,2,3,2022-11-28T13:00:00+00:00,A. Taylor,Education City Stadium,Ar-Rayyan
+Brazil,Switzerland,6,15,1,0,2022-11-28T16:00:00+00:00,Ivan Cisneros,Stadium 974,Doha
+Portugal,Uruguay,27,7,2,0,2022-11-28T19:00:00+00:00,A. Faghani,Lusail Iconic Stadium,Lusail
+Netherlands,Qatar,1118,1569,2,0,2022-11-29T15:00:00+00:00,B. Gassama,Al Bayt Stadium,Al Khor
+Ecuador,Senegal,2382,13,1,2,2022-11-29T15:00:00+00:00,C. Turpin,Khalifa International Stadium,Ar-Rayyan
+Iran,USA,22,2384,0,1,2022-11-29T19:00:00+00:00,Antonio Mateu,Al Thumama Stadium,Doha
+Wales,England,767,10,0,3,2022-11-29T19:00:00+00:00,S. Vinčić,Ahmad bin Ali Stadium,Al-Rayyan
+Australia,Denmark,20,21,1,0,2022-11-30T15:00:00+00:00,M. Ghorbal,Al Janoub Stadium,Al Wakrah
+Tunisia,France,28,2,1,0,2022-11-30T15:00:00+00:00,M. Conger,Education City Stadium,Ar-Rayyan
+Saudi Arabia,Mexico,23,16,1,2,2022-11-30T19:00:00+00:00,M. Oliver,Lusail Iconic Stadium,Lusail
+Poland,Argentina,24,26,0,2,2022-11-30T19:00:00+00:00,D. Makkelie,Stadium 974,Doha
+Croatia,Belgium,3,1,0,0,2022-12-01T15:00:00+00:00,A. Taylor,Ahmad bin Ali Stadium,Al-Rayyan
+Canada,Morocco,5529,31,1,2,2022-12-01T15:00:00+00:00,Raphael Claus,Al Thumama Stadium,Doha
+Japan,Spain,12,9,2,1,2022-12-01T19:00:00+00:00,V. Gomes,Khalifa International Stadium,Ar-Rayyan
+Costa Rica,Germany,29,25,2,4,2022-12-01T19:00:00+00:00,S. Frappart,Al Bayt Stadium,Al Khor
+South Korea,Portugal,17,27,2,1,2022-12-02T15:00:00+00:00,F. Tello,Education City Stadium,Ar-Rayyan
+Ghana,Uruguay,1504,7,0,2,2022-12-02T15:00:00+00:00,D. Siebert,Al Janoub Stadium,Al Wakrah
+Serbia,Switzerland,14,15,2,3,2022-12-02T19:00:00+00:00,F. Rapallini,Stadium 974,Doha
+Cameroon,Brazil,1530,6,1,0,2022-12-02T19:00:00+00:00,I. Elfath,Lusail Iconic Stadium,Lusail
+Netherlands,USA,1118,2384,3,1,2022-12-03T15:00:00+00:00,Wilton Pereira Sampaio,Khalifa International Stadium,Ar-Rayyan
+Argentina,Australia,26,20,2,1,2022-12-03T19:00:00+00:00,S. Marciniak,Ahmad bin Ali Stadium,Al-Rayyan
+France,Poland,2,24,3,1,2022-12-04T15:00:00+00:00,J. Valenzuela,Al Thumama Stadium,Doha
+England,Senegal,10,13,3,0,2022-12-04T19:00:00+00:00,Ivan Cisneros,Al Bayt Stadium,Al Khor
+Japan,Croatia,12,3,1,1,2022-12-05T15:00:00+00:00,I. Elfath,Al Janoub Stadium,Al Wakrah
+Brazil,South Korea,6,17,4,1,2022-12-05T19:00:00+00:00,C. Turpin,Stadium 974,Doha
+Morocco,Spain,31,9,0,0,2022-12-06T15:00:00+00:00,F. Rapallini,Education City Stadium,Ar-Rayyan
+Portugal,Switzerland,27,15,6,1,2022-12-06T19:00:00+00:00,C. Ramos,Lusail Iconic Stadium,Lusail
+Croatia,Brazil,3,6,1,1,2022-12-09T15:00:00+00:00,M. Oliver,Education City Stadium,Ar-Rayyan
+Netherlands,Argentina,1118,26,2,2,2022-12-09T19:00:00+00:00,Antonio Mateu,Lusail Iconic Stadium,Lusail
+Morocco,Portugal,31,27,1,0,2022-12-10T15:00:00+00:00,F. Tello,Al Thumama Stadium,Doha
+England,France,10,2,1,2,2022-12-10T19:00:00+00:00,Wilton Pereira Sampaio,Al Bayt Stadium,Al Khor
+Argentina,Croatia,26,3,3,0,2022-12-13T19:00:00+00:00,D. Orsato,Lusail Iconic Stadium,Lusail
+France,Morocco,2,31,2,0,2022-12-14T19:00:00+00:00,C. Ramos,Al Bayt Stadium,Al Khor
+Croatia,Morocco,3,31,2,1,2022-12-17T15:00:00+00:00,Abdulrahman Al Jassim,Khalifa International Stadium,Ar-Rayyan
+Argentina,France,26,2,3,3,2022-12-18T15:00:00+00:00,S. Marciniak,Lusail Iconic Stadium,Lusail
